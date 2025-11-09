@@ -343,6 +343,9 @@ button:not(.outline):hover {
         padding-left: 0;
         padding-right: 0;
     }
+    .card {
+        text-align: center;
+    }
     .app-header {
         padding-left: 2rem;
         padding-right: 2rem;
@@ -354,5 +357,6 @@ button:not(.outline):hover {
     }
 
 }
+
 
 
