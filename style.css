@@ -340,10 +340,12 @@ button:not(.outline):hover {
 @media (max-width: 1200px) {
     .app-container {
         grid-template-columns: 1fr;
+        padding: 0;
     }
     .results-column {
         position: static;
         height: auto;
         overflow-y: visible;
     }
+
 }
