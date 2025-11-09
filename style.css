@@ -340,7 +340,8 @@ button:not(.outline):hover {
 @media (max-width: 1200px) {
     .app-container {
         grid-template-columns: 1fr;
-        padding: 0;
+        padding-left: 0;
+        padding-right: 0;
     }
     .results-column {
         position: static;
@@ -349,3 +350,4 @@ button:not(.outline):hover {
     }
 
 }
+
