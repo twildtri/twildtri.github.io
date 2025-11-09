@@ -343,6 +343,10 @@ button:not(.outline):hover {
         padding-left: 0;
         padding-right: 0;
     }
+    .app-header {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
     .results-column {
         position: static;
         height: auto;
@@ -350,4 +354,5 @@ button:not(.outline):hover {
     }
 
 }
+
 
